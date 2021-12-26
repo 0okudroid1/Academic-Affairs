@@ -1,0 +1,37 @@
+<form action="./register.php" method="POST" name="registerForm">
+    <table cellpadding="4px">
+        <tr>
+            <td>Username: <font color="red">*</font></td>
+        </tr>
+        <tr>
+            <td><input type="text" value="" name="username" size="35" /></td>
+        </tr>
+        <tr>
+            <td>Email Address:</td>
+        </tr>
+        <tr>
+            <td><input type="text" value="" name="email" size="35" /></td>
+        </tr>
+        <tr>
+            <td>Password: <font color="red">*</font></td>
+        </tr>
+        <tr>
+            <td><input type="password" value="" name="passwd" size="35" /></td>
+        </tr>
+        <tr>
+            <td>password must be at least 5 characters and<br /> have a special character, e.g. !#$.,:;()</font></td>
+        </tr>
+        <tr>
+            <td>Confirm Password: <font color="red">*</font></td>
+        </tr>
+        <tr>
+            <td><input type="password" value="" name="passwd_again" size="35" /></td>
+        </tr>
+        <tr>
+            <td>
+                <input type="submit" name="registerBtn" value="Register" /> 
+                <font color="red">*</font> = required fields 
+            </td>
+        </tr>
+    </table>
+</form>
