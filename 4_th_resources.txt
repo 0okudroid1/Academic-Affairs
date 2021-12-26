@@ -1,0 +1,95 @@
+<!doctype html>
+<!-- Website template by freewebsitetemplates.com -->
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>projects - Space Science Website Template</title>
+	<link rel="stylesheet" href="css/style.css" type="text/css">
+	<link rel="stylesheet" type="text/css" href="css/mobile.css">
+	<script src="js/mobile.js" type="text/javascript"></script>
+</head>
+<body>
+	<div id="page">
+		<div id="header">
+			<div>
+				<a href="index.html" class="logo"><img src="images/logo.png" width="45" height="55"></a>
+				<h3 style="text-align:left">Academic Affairs</h3>
+				<ul id="navigation">
+					<li>
+						<a href="index.html">Home</a>
+					</li>
+					<li>
+						<a href="about.html">About</a>
+					</li>
+					<li class="menu selected">
+						<a href="projects.html">Resources </a>
+						<ul class="primary">
+							<li>
+								<a href="proj1.html">proj 1</a>
+							</li>
+						</ul>
+					</li>
+					<li class="menu">
+						<a href="blog.html">Blog</a>
+						<ul class="secondary">
+							<li>
+								<a href="singlepost.html">Single post</a>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<a href="contact.html">Contact</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div id="body">
+			<div class="header">
+				<div>
+                                                                                             
+					<h1>4 th year</h1>
+					<ul>
+						<li>
+			
+<h1>SEMISTER 1</h1>
+                                                                                
+<img src="data:image/png;base64,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" alt=""></a>
+					<div>
+       								<a href="proj1.html" class="more">Read More</a>
+
+				</div>
+						</li>
+						<li>
+					
+								<h1>SEMISTER 2 </h1>
+	<img src="https://lh3.googleusercontent.com/proxy/jBQjUynVhk7T_iYZwlDVtMXUsJfPTb4ddtyq_8h6R4vEdxqjOKLoGC1LJlXEgNE-qivSQ2wh2TEde41hlpOCpqUT" alt=""></a>
+						<div>	
+								<a href="proj1.html" class="more">Read More</a>
+					</div>
+				</li>
+					</ul>
+
+                                                                                        </div>
+              
+                                        
+			</div>
+   		</div>
+		<div id="footer">
+			<div class="connect">
+				<div>
+					<h1>FOLLOW OUR  MISSIONS ON</h1>
+					<div>
+						<a href="http://freewebsitetemplates.com/go/facebook/" class="facebook">facebook</a>
+						<a href="http://freewebsitetemplates.com/go/twitter/" class="twitter">twitter</a>
+						<a href="http://freewebsitetemplates.com/go/googleplus/" class="googleplus">googleplus</a>
+						<a href="http://pinterest.com/fwtemplates/" class="pinterest">pinterest</a>
+					</div>
+				</div>
+			</div>
+		
+  		</div>
+				
+	</div>		
+</body>
+</html>
